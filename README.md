@@ -5,3 +5,4 @@ The system utilizes a web camera that detects the hand of the person which will 
 The dataset used is from an open-source website while the model and the classification method (python program) are personally made.
 The documentation is uploaded on my GitHub and ResearchGate.
 
+![My Image](./assets/resource/1.jpg)
